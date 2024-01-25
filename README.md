@@ -1,3 +1,8 @@
+React Notes App.
+
+A Browser Notes App using React currently using Local Storage.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
